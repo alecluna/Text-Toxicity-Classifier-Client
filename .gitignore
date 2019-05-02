@@ -107,3 +107,6 @@ node_modules
 serviceWorker.js
 train.csv
 
+.prettierrc
+.DS_Store
+.vscode/
